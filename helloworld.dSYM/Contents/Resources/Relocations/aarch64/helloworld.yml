@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/subham/c_programming/git_test1/helloworld'
+relocations:     []
+...
